@@ -1,0 +1,71 @@
+Machine learning assigment2
+
+1. 2,3(D)
+
+2. 1,2,4 (D)
+
+3. True(A)
+
+4. (one only) A
+
+5.B(1)
+
+6.B(NO)
+
+7.A
+
+8.D
+
+9.A
+
+10.D
+
+11.D
+
+12.Is K sensitive to outliers:
+	K is sensitive to outliers because the mean is easily influenced by extreme values
+
+13.why is kmeans better:
+
+	it gurantees convergence and generalises well to clustersof different size and shapes such as elliptical clusters
+
+14.K is non deterministic in nature.it starts with a random set fo data points as initial centroids.This influences the quality of the resulting clusters
+
+   running algorithm severally on the same data could gibe different results.
+
+
+
+STATISTICS ASSIGMNENT
+
+1.D
+2.C
+3.D
+4.D
+5.B
+6.B
+7.A
+8.B
+9.D
+10.A
+11.C
+12.D
+13.D
+14.A
+15.D
+
+SQL ASSIGNMENT:
+1.D
+2.C
+3.A
+4.A
+5.B
+6.C
+7.A
+8.C
+9.A
+10.C
+11.A
+12.C
+13.A
+14.B,C,D(UNIQUE,PRIMARY KEY AND NULL)
+15.A.
